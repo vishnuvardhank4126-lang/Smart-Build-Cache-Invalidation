@@ -1,0 +1,3 @@
+The build cache decides what to rebuild.
+A content hash is a fingerprint of file bytes.
+If the fingerprint is unchanged the step is skipped.

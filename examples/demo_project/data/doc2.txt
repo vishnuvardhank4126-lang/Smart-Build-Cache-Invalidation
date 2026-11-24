@@ -1,0 +1,4 @@
+Hashing inputs is deterministic and fast.
+Transitive invalidation flows through dependency edges.
+Editing one file should rebuild only what depends on it.
+Only the affected chain should re-execute.

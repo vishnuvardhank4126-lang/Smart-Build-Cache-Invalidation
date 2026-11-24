@@ -1,0 +1,3 @@
+An action hash combines the command and its inputs.
+Upstream outputs feed into downstream action hashes.
+Stale outputs are detected instead of silently trusted.
